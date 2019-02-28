@@ -1,0 +1,68 @@
+//PennPierson.com
+//"Warning" by Josh Penn-Pierson is licensed under CC BY 4.0; see https://github.com/OpenSourceMusic/Warning
+//"Boss 1" by Josh Penn-Pierson is licensed under CC BY 4.0; see https://github.com/OpenSourceMusic/Boss-1
+//"The Speed Consumes Me" by Josh Penn-Pierson is licensed under CC BY 4.0; see https://github.com/OpenSourceMusic/The-Speed-Consumes-Me
+//"This Trip Might Be Our Last" by Josh Penn-Pierson is licensed under CC BY 4.0; see https://github.com/OpenSourceMusic/This-Trip-Might-Be-Our-Last
+//"Flaming Soul Part 1" by Josh Penn-Pierson is licensed under CC BY 4.0; see https://github.com/OpenSourceMusic/Flaming-Soul
+//"This Place Is So Lonely" by Josh Penn-Pierson is licensed under CC BY 4.0; see https://github.com/OpenSourceMusic/This-Place-Is-So-Lonely
+
+//"Battle in the Stratosphere" by Scott Elliott is licensed under CC BY 4.0; see https://opengameart.org/content/battle-in-the-stratosphere
+
+//"8bit_bomb_explosion" by Luke.RUSTLTD is licensed under CC0; see https://opengameart.org/content/bombexplosion8bit
+//"victory jingle" by Spring is licensed under CC0; see https://opengameart.org/content/sega-mega-drivegenesis-victory-jingle
+//"ambient_alarm1" by Gobusto is licensed under CC-BY-SA 3.0; see https://opengameart.org/content/alarm
+//"SHOOT012" by jalastram is licensed under CC-BY-SA 3.0; see https://opengameart.org/content/collaboration-sound-effects-shooting-sounds-002
+//"SHOOT011" by jalastram is licensed under CC-BY-SA 3.0; see https://opengameart.org/content/collaboration-sound-effects-shooting-sounds-002
+//"FX236" by jalastram is licensed under OGA-BY 3.0; see https://opengameart.org/content/sound-effects-sfx024; http://static.opengameart.org/OGA-BY-3.0.txt
+//"FX161" by jalastram is licensed under OGA-BY 3.0; see https://opengameart.org/content/sound-effects-sfx024; http://static.opengameart.org/OGA-BY-3.0.txt
+//"GUI Sound Effects_051" by jalastram is licensed under CC-BY-SA 3.0; see https://opengameart.org/content/gui-sound-effects-6
+//"GUI Sound Effects_054" by jalastram is licensed under CC-BY-SA 3.0; see https://opengameart.org/content/gui-sound-effects-6
+//"sfx_fly" by Blender Foundation is licensed under CC-BY-SA 3.0; see https://opengameart.org/content/fly-launch-jet-yo-frankie
+
+//"seamless space_0" by n4 is licensed under Creative Commons 0 Universal;  see https://opengameart.org/content/seamless-space-stars
+//"stars_texture"  by zintoki is licensed under Creative Commons 0 Universal;  see https://zintoki.itch.io/space-breaker
+
+//"ship" by ansimuz is licensed under Creative Commons Attribution v4.0 International;  see https://ansimuz.itch.io/spaceship-shooter-environment
+//"laser-bolts" by ansimuz is licensed under Creative Commons Attribution v4.0 International;  see https://ansimuz.itch.io/spaceship-shooter-environment
+//"explosion" by ansimuz is licensed under Creative Commons Attribution v4.0 International;  see https://ansimuz.itch.io/spaceship-shooter-environment
+//"blue-explosion" by ansimuz is licensed under Creative Commons Attribution v4.0 International;  see https://ansimuz.itch.io/spaceship-shooter-environment
+//"shield" by adwitr is licensed under Creative Commons 0 Universal;  see https://adwitr.itch.io/pixel-health-bar-asset-pack
+//"boost" by adwitr is licensed under Creative Commons 0 Universal;  see https://adwitr.itch.io/pixel-health-bar-asset-pack
+//"empty" by adwitr is licensed under Creative Commons 0 Universal;  see https://adwitr.itch.io/pixel-health-bar-asset-pack
+
+//"UFO" by Jull is licensed under Creative Commons 0 Universal;  see https://opengameart.org/content/animated-spaceships
+//"Dove" by Jull is licensed under Creative Commons 0 Universal;  see https://opengameart.org/content/animated-spaceships
+//"Paranoid" by Jull is licensed under Creative Commons 0 Universal;  see https://opengameart.org/content/animated-spaceships
+//"Ninja" by Jull is licensed under Creative Commons 0 Universal;  see https://opengameart.org/content/animated-spaceships
+//"Ligher" by Jull is licensed under Creative Commons 0 Universal;  see https://opengameart.org/content/animated-spaceships
+//"Saboteur" by Jull is licensed under Creative Commons 0 Universal;  see https://opengameart.org/content/animated-spaceships
+//"Lightning" by Jull is licensed under Creative Commons 0 Universal;  see https://opengameart.org/content/animated-spaceships
+//"Turtle" by Jull is licensed under Creative Commons 0 Universal;  see https://opengameart.org/content/animated-spaceships
+
+//"SmallJelly" by ansimuz is licensed under Creative Commons Attribution v4.0 International;  see https://ansimuz.itch.io/spaceship-shooter-environment
+//"MediumJelly" by ansimuz is licensed under Creative Commons Attribution v4.0 International;  see https://ansimuz.itch.io/spaceship-shooter-environment
+//"BigJelly" by ansimuz is licensed under Creative Commons Attribution v4.0 International;  see https://ansimuz.itch.io/spaceship-shooter-environment
+
+//"Odin" by Scrittl is licensed under Creative Commons 0 Universal;  see https://opengameart.org/content/spaceship-set-32x32px
+//"Indra" by MetaShinryu is licensed under CC BY 3.0;  see https://opengameart.org/content/biomech-dragon-splice
+//"Zeus" by Jerom is licensed under CC BY 3.0;  see https://opengameart.org/content/retro-shmup-boss-2
+//"Amun" by MillionthVector is licensed under CC BY 3.0;  see https://opengameart.org/content/set-faction9-spaceships and http://millionthvector.blogspot.de
+//"Shangdi" by pzUH is licensed under Creative Commons 0 Universal;  see https://opengameart.org/content/alien-spaceship-sprite-pack
+//"Unknown" by MillionthVector is licensed under CC BY 3.0;  see https://opengameart.org/content/set-faction3-spaceships and http://millionthvector.blogspot.de
+
+//"EnemyBullet" by Master484 is licensed under Creative Commons 0 Universal;  see https://opengameart.org/content/side-blaster-gfx-m484-games
+//"BossBullet" by Master484 is licensed under Creative Commons 0 Universal;  see https://opengameart.org/content/side-blaster-gfx-m484-games
+//"DeflectDrop" by Master484 is licensed under Creative Commons 0 Universal;  see https://opengameart.org/content/side-blaster-gfx-m484-games
+
+//"power-up" by ansimuz is licensed under Creative Commons Attribution v4.0 International;  see https://ansimuz.itch.io/spaceship-shooter-environment
+//"shotgun" by zintoki is licensed under Creative Commons 0 Universal;  see https://zintoki.itch.io/space-breaker
+//"tracker" by zintoki is licensed under Creative Commons 0 Universal;  see https://zintoki.itch.io/space-breaker
+//"bouncer" by zintoki is licensed under Creative Commons 0 Universal;  see https://zintoki.itch.io/space-breaker
+//"ring" by zintoki is licensed under Creative Commons 0 Universal;  see https://zintoki.itch.io/space-breaker
+
+//"back_cave" by PWL is licensed under CC 0;  see https://opengameart.org/content/seamless-cave-background
+//"sci_fi_bg1" by hassekf is licensed under CC 0;  see https://opengameart.org/content/sci-fi-background
+//"highway" by Alucard is licensed under CC BY 3.0;  see https://opengameart.org/content/2d-top-down-highway-background
+//"desert" by ansimuz is licensed under Creative Commons Attribution v4.0 International;  see https://ansimuz.itch.io/spaceship-shooter-environment
+//"mountains" by ansimuz is licensed under Creative Commons Attribution v4.0 International;  see https://ansimuz.itch.io/top-down-river-environment
+//"living-tissue-background-preview" by ansimuz is licensed under CC BY 3.0;  see https://opengameart.org/content/living-tissue-background 
